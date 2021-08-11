@@ -79,5 +79,3 @@ const ThoughtForm = () => {
 };
 
 export default ThoughtForm;
-
-//21.6.6
